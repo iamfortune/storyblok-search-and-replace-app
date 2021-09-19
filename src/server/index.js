@@ -30,7 +30,7 @@ app.post("/api/update", async (req, res) => {
 			if (error) {
 				return res.status(500).send("An error occured!");
 			}
-			res.status(200).send(result);
+			res.status(200).send(result); 
 		});
 	} catch (error) {
 		console.error("Error at index!", error.message);
