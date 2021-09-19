@@ -2,7 +2,6 @@
 
 This is a sample project showing how to modify content that is stored within [Storyblok](https://www.storyblok.com/docs/api/content-delivery)
 
-
 ## Table of Contents
 
 - [Description](#description)
